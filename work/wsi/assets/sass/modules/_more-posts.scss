@@ -1,0 +1,30 @@
+.more-posts {
+	display: table;
+}
+.more-posts__icon {
+	font-size: 2em;
+	line-height: 1.5em;
+ 	display: table-cell;
+   text-align: center;
+   vertical-align: middle;
+   padding-right: 0.25em;
+}
+.more-posts__words {
+   display: table-cell;
+   text-align: center;
+   vertical-align: middle;
+   color: $dk-grey;
+	&:hover {
+		color: $red;
+	}
+}
+
+.more-posts--platform  {
+   width: 100%;
+}
+.more-posts--platform > p{
+   @include respond-to(ipad) {
+      width: 50%;
+      float:left;
+   }
+}

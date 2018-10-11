@@ -1,0 +1,36 @@
+/*------------------------------------*\
+    #HEADER
+\*------------------------------------*/
+
+
+.page-header {
+  border: 1px solid $color--brand-primary;
+  display: inline-block;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.page-header .title {
+  background: $color--brand-primary;
+  padding: 10px 20px;
+  color: white;
+  margin: 0;
+  line-height: 1;
+  @include bp(small){
+    &--home {
+     @include font-size($h1-size * 1.7);
+    }
+  }
+}
+
+.page-header .subtitle {
+  padding: 10px 8px;
+  color: white;
+  margin: 0;
+  line-height: 1;
+  @include bp(small){
+    &--home {
+      @include font-size($h2-size * 1.4);
+    }
+  }
+}

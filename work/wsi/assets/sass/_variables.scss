@@ -1,0 +1,60 @@
+/* Media Queries */
+
+$ipad: 768px;
+$desktop: 1024px;
+
+/* Colour */
+
+/* Primary */
+$black:      #000;
+$white:      #FFFFFF;
+$red:        #da0d28;
+$lt-grey:    #a1a1a1;
+$dk-grey:    #464646;
+
+/* Secondary */
+
+$green:      #38a8a5;
+$maroon:      #7f0c45;
+$navy:       #054474;
+$purple:     #502d57;
+$bt-red:     #ff412a;
+$pigeon:    #7794aa;
+
+/* Lots of other greys */
+
+$widget-one-grey:    #6e6e6e;
+$widget-two-grey:    #808080;
+$widget-three-grey:  #979697;
+$footer-widget-grey: #898989;
+$xxlt-grey:  #eeeeee;
+$xlt-grey:   #e1e1e1;
+
+/* Typography */
+
+$base-font-size:    16px;
+$base-line-height:  $base-font-size * 1.5;
+
+$normal:           400;
+$medium:           500;
+$bold:             700;
+
+/* Form elements */
+
+$form-padding:     8px 5px;
+$form-focus-color: $red;
+$button-color:     $red;
+$button-border:    $red;
+$border-color:     $lt-grey;
+$border-radius:    4px;
+
+
+/* Widgets */
+
+$bracket-width:    10px;
+$bracket-color:    #6b6d6d;
+
+/* Tables */
+
+$table-border-color:    $xlt-grey;
+$table-cell-padding:    4px;

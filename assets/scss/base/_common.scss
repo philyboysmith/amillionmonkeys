@@ -1,0 +1,19 @@
+/*------------------------------------*\
+    #BASE STYLES
+\*------------------------------------*/
+
+*, *:before, *:after {
+  box-sizing: border-box;
+ }
+
+html {
+  height: 100%;
+  background-color: $color--gray-light;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+

@@ -1,0 +1,48 @@
+.sitemap {
+	background: $black;
+	padding: 10px 20px;
+	border-right: 15px solid $red;
+	@extend .clearfix;
+	@include respond-to(ipad) {
+		.sitemap__spacer {
+			margin: 0 30px;
+		}
+		.sitemap__column {
+			float:left;
+			width: 22%;
+			margin-left: 17%;
+		}
+		.sitemap__column:first-child {
+			margin-left: 0%;
+		}
+	}
+}
+
+
+.sitemap ul {
+	padding: 0;
+	margin:0;
+}
+.sitemap ul li {
+	padding: 0;
+	margin:0;
+	border-bottom: 1px solid $dk-grey;
+	&:first-child {
+		border-top: 1px solid $dk-grey;
+	}
+}
+.sitemap div ul:first-child li:first-child {
+	border-top-width:0;
+	@include respond-to(ipad) {
+		border-top-width: 1px;
+		margin-top: 38px;
+		margin-top: 3.8rem;
+	}
+}
+
+.sitemap ul li a {
+	color: $white;
+	font-weight: normal;
+	padding: 8px 0;
+	display:block;
+}

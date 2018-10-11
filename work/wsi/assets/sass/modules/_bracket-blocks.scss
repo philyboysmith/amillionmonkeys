@@ -1,0 +1,186 @@
+
+.bracket-block {
+	position: relative;
+	margin-bottom: $base-line-height;
+	background-position: center center;
+	background-size: 60% auto;
+	background-repeat: no-repeat;
+
+	&:before, &:after {
+		width: $bracket-width;
+		border: 1px solid $widget-one-grey;
+		position:absolute;
+		content: "";
+		height: 100%;
+		top:0;
+		z-index: 10;
+	}
+	&:before {
+		border-right:0;
+		left:0;
+	}
+
+	&:after {
+		border-left:0;
+		right:0;
+	}
+	.spacer {
+		padding: 10px 20px;
+		@extend .clearfix;
+		height: 100%;
+	}
+	p {
+		margin: 0;
+	}
+	a {
+		display: block;
+		clear:left;
+	}
+	blockquote {
+		color: $red;
+	}
+
+	cite {
+		color: $dk-grey;
+	}
+}
+
+.bracket-block--red {
+	&:before, &:after {
+		border-color:$red;
+	}
+}
+.bracket-block--left-only {
+	&:after {
+		border:0;
+	}
+}
+
+.bracket-block__title {
+	margin:0;
+	text-transform: uppercase;
+}
+
+.bracket-block--large .bracket-block__title {
+	@include font-size(1.8);
+}
+
+
+.bracket-block--with-image .bracket-block__container {
+	display:table-row;
+}
+.bracket-block--with-image .bracket-block__image {
+	display:table-cell;
+	width: 100px;
+	vertical-align:middle;
+}
+
+.bracket-block__image--large {
+	margin-top: 1em;
+	@extend .clearfix;
+}
+
+.bracket-block--with-image .bracket-block__text {
+	display:table-cell;
+	padding-left: 20px;
+	vertical-align:middle;
+}
+
+// With Definitiion List
+
+.bracket-block__dl {
+	@extend .clearfix;
+	@include font-size(1.6);
+	font-weight: $bold;
+	text-transform: uppercase;
+	>div {
+		float:left;
+		padding-right: 3em;
+		margin-left: 2em;
+	}
+	>div:first-child {
+		border-right: 3px solid $black;
+
+	}
+	dt {
+		color: $red;
+	}
+	dd {
+		margin: 0;
+	}
+}
+
+// Hoverable bracket blocks
+
+.bracket-block--with-hover__container--non-hover-state img{
+	display: block;
+	margin: 0 auto;
+	max-height: 150px;
+	max-width: 200px;
+	position: relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	@include respond-to(ipad) {
+		max-width: 80%;
+	}
+
+}
+
+.bracket-block__container {
+	height: 100%;
+}
+.bracket-block--with-hover {
+	background-color: $red;
+	a {
+		color: $white;
+	}
+}
+
+.bracket-block--with-hover--is-active:before, .bracket-block--with-hover--is-active:after {
+ 		border:0;
+}
+
+.bracket-block--with-hover .bracket-block--with-hover__container--non-hover-state {
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: $white;
+	height: 100%;
+	width: 100%;
+	@include opacity (1);
+	@include transition(opacity 0.2s ease-in);
+	a {
+		color: $red;
+	}
+}
+
+.bracket-block--with-hover__container--non-hover-state a {
+	position: absolute;
+	bottom: 10px;
+	right: 20px;
+}
+
+
+.bracket-block--with-hover--is-active .bracket-block--with-hover__container--non-hover-state {
+	@include opacity (0);
+	z-index: -1;
+}
+
+.bracket-block--with-hover__container--hover-state {
+	color: $white;
+	z-index: 100;
+	height: 100%;
+	width: 100%;
+	padding: 10px 20px;
+	@include opacity (0);
+	z-index: 0;
+	@include transition(opacity 0.2s ease-in);
+}
+
+.bracket-block--with-hover--is-active .bracket-block--with-hover__container--hover-state {
+	@include opacity (1);
+
+	z-index: 1000;
+}

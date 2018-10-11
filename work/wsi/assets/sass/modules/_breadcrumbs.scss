@@ -1,0 +1,28 @@
+.breadcrumb {
+  list-style: none;
+  margin: 0 0 20px;
+  padding:0;
+}
+.breadcrumb li {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+
+.breadcrumb li a {
+  color: $lt-grey;
+  text-decoration: none;
+}
+
+.breadcrumb li a:hover {
+  color: #004068;
+}
+
+.breadcrumb li .divider {  
+  color: #aaa;
+  padding: 0 5px;
+}
+
+.breadcrumb .active {
+  color: $dk-grey;
+}

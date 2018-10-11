@@ -1,0 +1,69 @@
+/*------------------------------------*\
+    #FORMS
+\*------------------------------------*/
+form {
+
+}
+
+label {
+	display: block;
+	margin-bottom: $p-spacer/2;
+}
+
+%inputBase {
+	-webkit-appearance: none;
+	display: block;
+	width: 100%;
+	border: solid 3px transparent;
+	margin-bottom: $p-spacer * 2;
+	color: $color--gray-dark;
+	&:focus {
+		outline: none;
+		border-color: darken($color--brand-primary, 20%);
+	}
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+	@extend %inputBase;
+	padding: 0.5em;
+	@include font-size($p-size);
+}
+
+::-webkit-input-placeholder {
+color: $color--gray-light;
+@include accentFont;
+padding-top: 5px;
+}
+::-moz-placeholder {
+	color: $color--gray-light;
+	@include accentFont;
+	padding-top: 5px;
+	 } /* firefox 19+ */
+:-ms-input-placeholder {
+	color: $color--gray-light;
+	@include accentFont;
+	padding-top: 5px;
+	 } /* ie */
+input:-moz-placeholder {
+color: $color--gray-light;
+@include accentFont;
+padding-top: 5px;
+ }
+
+textarea {
+	@extend %inputBase;
+	padding: 0.5em;
+	@include font-size($p-size);
+
+}
+
+select {
+	@extend %inputBase;
+	padding: 0.5em; //default padding causes cutoff text in FF, this fixes it
+}
+
+
+input[type="submit"]{
+}

@@ -1,0 +1,116 @@
+// ==========================================================================
+// UTILITY CLASSES & MIXINS
+// ==========================================================================
+
+/**
+ * CONTENTS
+ *
+ * LAYOUT
+ * TYPOGRAPHY
+ * VERTICAL ALIGN
+ *
+ */
+
+ /*------------------------------------*\
+     #LAYOUT
+ \*------------------------------------*/
+
+// Nicolas Gallagher's micro clearfix:
+// (http://nicolasgallagher.com/micro-clearfix-hack/)
+
+@mixin clearfix {
+  *zoom: 1;
+  &:before, &:after {
+    content: " ";
+    display: table;
+  }
+  &:after {
+    clear: both;
+  }
+}
+
+.clearfix{ @include clearfix;}
+
+//Remove bottom margin from an element with a default bottom margin
+.bottomless { margin-bottom: 0; }
+
+//visually hidden
+@mixin hidden {
+	height: 0;
+	width: 0;
+	white-space: nowrap;
+	overflow: hidden;
+	text-indent: -110%;
+}
+
+.hide {
+  @include hidden;
+}
+
+//hide on medium screens only
+@media only screen and (max-width: $medium-screen) {
+	.hide-small {display: none;}
+}
+
+//hide on small screens only
+@media only screen and (max-width: $small-screen) {
+	.hide-handheld {display: none;}
+}
+
+// media queries
+
+@mixin bp($point) {
+  @if $point == large {
+    @media (min-width: $large-screen) { @content; }
+  }
+  @else if $point == medium {
+    @media (min-width: $medium-screen) { @content; }
+  }
+  @else if $point == small {
+    @media (min-width: $small-screen)  { @content; }
+  }
+  @else if $point == handheld {
+    @media (max-width: $small-screen - 1)  { @content; }
+  }
+}
+
+/*------------------------------------*\
+    #TYPOGRAPHY
+\*------------------------------------*/
+
+// calculate font sizes in REMs
+
+@function calculateRem($size) {
+  $remSize: $size / 16px;
+  @return $remSize * 1rem;
+}
+
+@mixin font-size($size) {
+  font-size: $size;
+  font-size: calculateRem($size);
+}
+
+/*------------------------------------*\
+    #VERTICAL ALIGN
+\*------------------------------------*/
+
+@mixin vertical-align {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.vertical-align {
+  @include vertical-align;
+}
+
+.unstyle {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.spacer {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}

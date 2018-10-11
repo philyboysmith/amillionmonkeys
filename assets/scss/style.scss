@@ -1,0 +1,50 @@
+/**
+ * Wherever possible we try to observe:
+ * SMACSS as a CSS framework
+ *
+ * BEM for naming conventions
+ * http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+ *
+ * CSS Guidelines for everything else
+ * http://cssguidelin.es/
+ *
+ */
+
+
+// LET'S GET STARTED
+// ---------------------------------------------------------
+
+@import "base/_vars.scss";
+@import "base/_utilities.scss";
+@import "base/_grid.scss";
+
+
+// BASE STYLES
+// ---------------------------------------------------------
+
+@import "base/_normalise.scss";
+@import "base/_type.scss";
+@import "base/_common.scss";
+
+// LAYOUT
+// ---------------------------------------------------------
+
+
+@import "layout/_footer.scss";
+@import "layout/_header.scss";
+// @import "layout/_home.scss";
+@import "layout/_main.scss";
+//@import "layout/_nav.scss";
+
+
+// // MODULES
+// // ---------------------------------------------------------
+
+@import "modules/_hero.scss";
+@import "modules/_buttons.scss";
+@import "modules/_forms.scss";
+@import "modules/_header.scss";
+@import "modules/_icons.scss";
+@import "modules/_nav.scss";
+@import "modules/_work.scss";
+@import "modules/_about-links.scss";

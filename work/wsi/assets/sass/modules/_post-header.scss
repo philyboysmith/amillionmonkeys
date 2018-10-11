@@ -1,0 +1,52 @@
+.post__header .article-heading, .post__header .article-subheading, .post__header time{
+	margin-top: 0;
+	margin-bottom:0;
+}
+
+.post__header time {
+	@extend h3;
+}
+
+.post__header--with-image {
+	@include background-image(linear-gradient(left, $black 0%, $black 50%, $red 50%, $red 100%));
+	position: relative;
+	padding-bottom: 15px;
+	img {
+		width: 100%;
+	}
+	.article-heading {
+		@include font-size(1.8);
+		position: absolute;
+		top: 0.75em;
+		left: 0;
+		background: $red;
+		color: $white;
+		padding: 0.75em 1em;
+		min-width: 11em;
+	}
+}
+.post__header--with-image--platform {
+	background: transparent;
+	padding-bottom: 0;
+}
+
+.post__header--with-image--navy {
+	@include background-image(linear-gradient(left, $navy 0%, $navy 50%, $black 50%, $black 100%));
+	.article-heading {
+		background: $navy;
+	}
+}
+
+.post__header--with-image--no-border {
+	background: transparent;
+	padding-bottom: 0;
+}
+
+.h-entry .post__header .article-heading {
+	@extend h2;
+	color: $dk-grey;
+
+	a {
+		color: $dk-grey;
+	}
+}

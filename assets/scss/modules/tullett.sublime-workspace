@@ -1,0 +1,1272 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"color",
+				"color--brand-primary"
+			],
+			[
+				"transform",
+				"transform-origin"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"portf",
+				"portfolio__item"
+			],
+			[
+				"port",
+				"portfolio__description"
+			],
+			[
+				"bo",
+				"boldFont"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ease-in",
+				"ease-in-out"
+			],
+			[
+				"mo",
+				"mobile_image"
+			],
+			[
+				"overl",
+				"overflow"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"BOX",
+				"box-sizing"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mobile",
+				"mobilecheck"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"bra",
+				"brand-primary"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"no-r",
+				"no-repeat"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"colo",
+				"color-border--grey"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"col",
+				"color-text--light"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"icmp",
+				"icmp_mc_downloads"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"color-",
+				"color-blue--bright"
+			],
+			[
+				"color-te",
+				"color-blue--pastel"
+			],
+			[
+				"border",
+				"border-bottom-color"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"home",
+				"homepage"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"pa",
+				"pastel-blue"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"light",
+				"light-grey"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"bd-",
+				"bd-grey"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"item",
+				"item-image"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"down",
+				"downlands-red"
+			],
+			[
+				"base",
+				"base-font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"dow",
+				"downlands-grey-light"
+			],
+			[
+				"cat",
+				"category_id"
+			],
+			[
+				"curr",
+				"l-curriculum-area"
+			],
+			[
+				"border-",
+				"border-right-width"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"heading",
+				"font-heading"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"region",
+				"region-frontpage"
+			],
+			[
+				"bas",
+				"base-line-height"
+			],
+			[
+				"grid",
+				"grid-baseline-height"
+			],
+			[
+				"pr",
+				"primary"
+			],
+			[
+				"gr",
+				"grid-baseline-height"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"pro",
+				"proxima-bold"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"FONT-",
+				"font-size"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"gre",
+				"greasby-yellow"
+			],
+			[
+				"grea",
+				"greasby-yellow"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"listy",
+				"list-style"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"portfolio",
+				"portfolio-screengrabs"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"backgro",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 115.0,
+		"selected_items":
+		[
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"gr",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"g",
+				"Grunt"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"GRUNT",
+				"Grunt"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"gurnt",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"das",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"grunt ",
+				"Grunt"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"dash",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"Grunt",
+				"Grunt"
+			],
+			[
+				"grutn",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"Grut",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"Gr",
+				"Grunt"
+			],
+			[
+				"grut",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"Grunt ",
+				"Grunt"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Gru",
+				"Grunt"
+			],
+			[
+				"align",
+				"Snippet: text-align"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 348.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/philsmith/Desktop/amm/assets/scss/modules/_forms.scss",
+		"/Users/philsmith/Desktop/amm/assets/scss/modules/_hero.scss",
+		"/Users/philsmith/Desktop/amm/assets/Gruntfile.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/ICMP/be-the-image-logos.pdf",
+		"/Users/philsmith/Desktop/amm/inc/project.php",
+		"/Users/philsmith/Desktop/amm/work/index.php",
+		"/Users/philsmith/Desktop/amm/about/index.php",
+		"/Users/philsmith/Desktop/amm/index.php",
+		"/Users/philsmith/Desktop/amm/assets/js/scripts.js",
+		"/Users/philsmith/Desktop/amm/contact/index.php",
+		"/Users/philsmith/Desktop/amm/assets/scss/modules/_nav.scss",
+		"/Users/philsmith/Desktop/amm/assets/scss/layout/_header.scss",
+		"/Users/philsmith/Desktop/amm/assets/scss/modules/_work.scss",
+		"/Users/philsmith/Desktop/amm/work/itv.php",
+		"/Users/philsmith/Desktop/amm/inc/footer.php",
+		"/Users/philsmith/Desktop/amm/inc/header.php",
+		"/Users/philsmith/Desktop/amm/work/cultbox.php",
+		"/Users/philsmith/Desktop/amm/assets/scss/base/_type.scss",
+		"/Users/philsmith/Desktop/amm/work/met.php",
+		"/Users/philsmith/Desktop/amm/work/wsi.php",
+		"/Users/philsmith/Desktop/amm/work/eightfourtwo.php",
+		"/Users/philsmith/Desktop/amm/work/year-of-the-male.php",
+		"/Users/philsmith/Desktop/amm/work/justin.php",
+		"/Users/philsmith/Desktop/amm/work/icmp.php",
+		"/Users/philsmith/Desktop/amm/work/isabelsmith.php",
+		"/Users/philsmith/Desktop/amm/assets/scss/base/_vars.scss",
+		"/Users/philsmith/Desktop/amm/work/downlands.php",
+		"/Users/philsmith/Desktop/amm/assets/scss/base/_utilities.scss",
+		"/Users/philsmith/Desktop/amm/assets/scss/modules/_buttons.scss",
+		"/Users/philsmith/Desktop/amm/work/fullfat.php",
+		"/Users/philsmith/Desktop/amm/assets/scss/modules/_icons.scss",
+		"/Users/philsmith/Desktop/amm/assets/scss/base/_common.scss",
+		"/Users/philsmith/Desktop/amm/assets/scss/layout/_main.scss",
+		"/Users/philsmith/Desktop/amm/assets/svg/mail.svg",
+		"/Users/philsmith/Desktop/amm/work/project.php",
+		"/Users/philsmith/Desktop/amm/work/urban-cycles.php",
+		"/Users/philsmith/Desktop/amm/assets/css/style.css",
+		"/Users/philsmith/Desktop/amm/.htaccess",
+		"/Users/philsmith/Desktop/amm/fullfat.php",
+		"/Users/philsmith (Deleted)/Dropbox/Piper Pritchard/html/admin/templates/pages/default.php",
+		"/Users/philsmith/Desktop/amm/about.php",
+		"/Users/philsmith/Desktop/amm/work.php",
+		"/Users/philsmith/Desktop/amm/assets/scss/style.scss",
+		"/Users/philsmith/Desktop/amm/assets/svg/shop.svg",
+		"/Users/philsmith/Desktop/amm/assets/svg/business.svg",
+		"/Users/philsmith/Desktop/amm/assets/svg/output/preview.html",
+		"/Users/philsmith/Desktop/amm/assets/svg/down-arrow.svg",
+		"/Users/philsmith/Desktop/amm/assets/scss/layout/_footer.scss",
+		"/Users/philsmith/Desktop/amm/assets/scss/layout/_nav.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/n-gage/wp-content/themes/n-gage/article_template.php",
+		"/Users/philsmith/Desktop/amm/assets/scss/layout/_home.scss",
+		"/Users/philsmith/Desktop/amm/assets/scss/modules/_header.scss",
+		"/Users/philsmith/Desktop/amm/assets/svg/logo.svg",
+		"/Users/philsmith/Desktop/amm/assets/scss/base/_grid.scss",
+		"/Users/philsmith/Desktop/amm/assets/js/min/scripts.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/.sublime-grunt.cache",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/front-page.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/section-tweets.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/style.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_client-filter.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/js/scripts.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_client-details.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/archive.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_tweets.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/base/_type.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/section-carousel.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_carousel.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/functions.php",
+		"/Users/philsmith/Downloads/responsive-carousel-master/test/functional/slide.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/js/vendor/responsive-carousel.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/icons/output/preview.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/base/_layout.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/Gruntfile.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/section-clients.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/js/scripts-backup.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_archive.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_forms.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_welcome.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_contact.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/section-welcome.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/base/_utilities.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/base/_common.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/header.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/front-page (Phil Smith's conflicted copy 2014-11-11).php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/full_fat (Phil Smith's conflicted copy 2014-11-11).sublime-workspace",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/index.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/js/min/scripts.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_client-filter (Phil Smith's conflicted copy 2014-11-11).scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/css/main (Phil Smith's conflicted copy 2014-11-11).css",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/js/scripts (Phil Smith's conflicted copy 2014-11-11).js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_new-client-filter.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/.gitignore",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/icons/videogames-technology.svg",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_icons.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/base/_vars.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_homepage-sections.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/footer.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/js/min/scripts.min.js",
+		"/Users/philsmith/Downloads/onepage-scroll-master 2/onepage-scroll.css",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/amm.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-config.php",
+		"/Users/philsmith/Dropbox/Public/tullett/close_PCM/tp0513h_risk_IDB13_close_PCM.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/layout/_footer.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_clients.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_buttons.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/css/main.css",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/images/fabric_of_squares_gray_@2X.png",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/icons/down.svg",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/icons/output/icons.data.svg.css",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_title-block.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/layout/_header.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/modules/_section-headers.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/scss/base/_normalize.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/archive-custom_type.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/page-custom.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/page.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/search.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/single-custom_type.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/single.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/taxonomy-custom_cat.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/404.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/style.css",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/comments.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/admin.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/library/custom-post-type.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/post-formats/format-aside.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/post-formats/format-audio.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat/post-formats/format-chat.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/philsmith/Desktop/amm/",
+			"/Users/philsmith/Desktop/amm/*",
+			"/Users/philsmith/Desktop/amm/work",
+			"/Users/philsmith/Dropbox/amillionmonkeys/Full Fat/wordpress/wp-content/themes/full_fat",
+			"",
+			"*.scss",
+			"",
+			"/Users/philsmith/Dropbox/amillionmonkeys/ICMP/wordpress/wp-content/themes/icmp, *.php",
+			"/Users/philsmith/Dropbox/amillionmonkeys/ICMP/wordpress/wp-content/themes/icmp,*.php",
+			"/Users/philsmith/Dropbox/amillionmonkeys/ICMP/wordpress/wp-content/themes/icmp",
+			"/Users/philsmith/Dropbox/amillionmonkeys/ICMP/wordpress/wp-content/themes/icmp,,*.php",
+			"/Users/philsmith/Dropbox/amillionmonkeys/ICMP/wordpress/wp-content/themes/icmp",
+			"/Users/philsmith/Dropbox/amillionmonkeys/ICMP/wordpress/wp-content/plugins",
+			"/Users/philsmith/Dropbox/amillionmonkeys/ICMP/wordpress/wp-content/themes/icmp/",
+			"/Users/philsmith/Dropbox/amillionmonkeys/ICMP/wordpress/wp-content/themes/icmp/library/scss",
+			"/Users/philsmith/Dropbox/Second Touchscreen",
+			"/Users/philsmith/Desktop/base_theme/assets/scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"assets/",
+			"this",
+			"///<?php echo($_SERVER['HTTP_HOST']);?>",
+			"///",
+			", ",
+			"</ul>",
+			"<ul>",
+			"p>",
+			"</ul>",
+			"<ul>",
+			"p>",
+			"<ul>",
+			"</ul>",
+			", ",
+			"p>",
+			"<ul>",
+			"p>",
+			", ",
+			"p>",
+			", ",
+			"p>",
+			", ",
+			"p>",
+			"p",
+			",",
+			"p>",
+			",",
+			"20",
+			"32",
+			"p>",
+			"p",
+			"22px",
+			"$sidebar = \"\";",
+			"details",
+			"centered",
+			"href=\"work/",
+			"\" class=\"portfolio__link\">",
+			"src=\"assets",
+			"https:",
+			"000000",
+			"shop",
+			"100px",
+			"div",
+			"800x400",
+			"800x300",
+			"http://placehold.it/800x400",
+			"</figcaption>",
+			"header",
+			" class=\"page-header\"",
+			"<li>",
+			"<figcaption>",
+			"centere",
+			"centered",
+			"header",
+			"half",
+			"ul li:nth-child(",
+			"transform-origin:",
+			"200px",
+			"bottom",
+			"top",
+			"icon",
+			"next",
+			"prev",
+			"carous",
+			"ul li",
+			"2",
+			"height",
+			"back",
+			"active",
+			"colspan",
+			"0",
+			"jquery",
+			"fullfat.local",
+			"wp_get_attachment_image",
+			"desktop",
+			"the_query",
+			"medium",
+			"brand-red",
+			".client:hover",
+			".client.active:hover",
+			"epsilon",
+			"client-list__item",
+			"<div class=\"client-header\">\n                            <h2>",
+			"<div class=\"client-list__item__content\">\n                    <h2>",
+			"<h2>Item",
+			"<a href=\"#\">",
+			"class=\"",
+			"brand-red",
+			"<img src=\"../assets",
+			"russian",
+			" { ",
+			"{ ",
+			"/images",
+			"?>/images",
+			"/examples",
+			"$primary-color",
+			"$h1-size",
+			"0.125em",
+			"h1",
+			"$h1-size",
+			"font-size:",
+			"font-size: ",
+			"Open Sans",
+			"Open",
+			"accentFont",
+			"/assets/",
+			"css",
+			"site",
+			" class=\"m-all t-2of3 d-5of7 cf\" ",
+			"ammtheme",
+			"latest_tweets_render_html",
+			"rss",
+			"bones_rss_version",
+			"twitter",
+			"\"hr",
+			"read more",
+			"service",
+			"\n\n}",
+			";",
+			"}.",
+			"\n  \n  ",
+			"{",
+			"blog-nav ul li",
+			" id=\"",
+			"blog",
+			"imagesLoaded",
+			"comment",
+			"images"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://<?php echo($_SERVER['HTTP_HOST']);?>",
+			"http://",
+			"$url = \"\";\n\n$details = \"\";",
+			" ",
+			"fullfat",
+			"background-position: $opposite-direction",
+			"<h3><?php _e( 'In this section', 'icmptheme' ); ?></h3>",
+			"icmp_page_navi",
+			"icmptheme",
+			"bonestheme",
+			"ICMP_Features",
+			"\"474\", \"368\",",
+			"list-item",
+			"-size",
+			"-spacer",
+			"-line-height",
+			"accent-font-stack",
+			"base-font-stack",
+			"field-padding",
+			"field-height",
+			"field-spacer",
+			"trans-out",
+			"trans-in",
+			"Location",
+			"location",
+			" "
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 248.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"front",
+				"full_fat/front-page.php"
+			],
+			[
+				"titl",
+				"library/scss/modules/_title-block.scss"
+			],
+			[
+				"util",
+				"library/scss/base/_utilities.scss"
+			],
+			[
+				"utili",
+				"library/scss/base/_utilities.scss"
+			],
+			[
+				"vars.sc",
+				"library/scss/base/_vars.scss"
+			],
+			[
+				"var",
+				"wordpress/wp-includes/vars.php"
+			],
+			[
+				"sort",
+				"library/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/examples/sort.js"
+			],
+			[
+				"foot",
+				"icmp/footer.php"
+			],
+			[
+				"vars",
+				"library/scss/base/_vars.scss"
+			],
+			[
+				"type",
+				"library/scss/base/_type.scss"
+			],
+			[
+				"navisc",
+				"library/scss/modules/_navigation.scss"
+			],
+			[
+				"function",
+				"icmp/functions.php"
+			],
+			[
+				"feature",
+				"library/scss/modules/_features.scss"
+			],
+			[
+				"widgetscss",
+				"library/scss/modules/_widgets.scss"
+			],
+			[
+				"widget",
+				"wordpress/wp-admin/widgets.php"
+			],
+			[
+				"header",
+				"icmp/header.php"
+			],
+			[
+				"footer.p",
+				"icmp/footer.php"
+			],
+			[
+				"header.php",
+				"icmp/header.php"
+			],
+			[
+				"header.sc",
+				"library/scss/layout/_header.scss"
+			],
+			[
+				"intro",
+				"scss/modules/_intro.scss"
+			],
+			[
+				"site",
+				"assets/js/site.js"
+			],
+			[
+				"top_bar",
+				"assets/scss/modules/_top_bar.scss"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"funcio",
+				"functions.php"
+			],
+			[
+				"base",
+				"library/scss/_base.scss"
+			],
+			[
+				"head",
+				"header.php"
+			],
+			[
+				"style",
+				"library/scss/style.scss"
+			],
+			[
+				"sing",
+				"single.php"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"768",
+				"library/scss/_768up.scss"
+			],
+			[
+				"misc",
+				"library/scss/_mixins.scss"
+			],
+			[
+				"mixin",
+				"library/scss/_mixins.scss"
+			],
+			[
+				"mixi",
+				"library/scss/_mixins.scss"
+			],
+			[
+				"st",
+				"library/scss/style.scss"
+			],
+			[
+				"heade",
+				"header.php"
+			],
+			[
+				"bones",
+				"library/bones.php"
+			],
+			[
+				"mix",
+				"library/scss/_mixins.scss"
+			],
+			[
+				"appl",
+				"eoms-cms/templates/default/careers-apply.tpl"
+			],
+			[
+				"mod",
+				"bluedoorbakery/sass/_modular-styles.scss"
+			],
+			[
+				"mo",
+				"sass/_modular-styles.scss"
+			],
+			[
+				"share",
+				"eoms-cms/templates/default/shareprice.tpl"
+			],
+			[
+				"announcements.tpl",
+				"eoms-cms/templates/default/announcements.tpl"
+			],
+			[
+				"top",
+				"eoms-cms/layouts/wide/top.php"
+			],
+			[
+				"defaul",
+				"public_html/assets/css/default.css"
+			],
+			[
+				"list.item",
+				"eoms-cms/templates/apps/portfolio/list.item.tpl"
+			],
+			[
+				"portfolio",
+				"eoms-cms/templates/default/portfolio.tpl"
+			],
+			[
+				"team",
+				"eoms-cms/templates/default/team.tpl"
+			],
+			[
+				"por",
+				"eoms-cms/templates/default/portfolio.tpl"
+			],
+			[
+				"bottom",
+				"eoms-cms/layouts/wide/bottom.php"
+			],
+			[
+				"pro",
+				"admin/pages/edit/project/project.post.php"
+			],
+			[
+				"proj",
+				"admin/pages/edit/project/project.post.php"
+			],
+			[
+				"compli",
+				"eoms-cms/templates/default/compliance-us.tpl"
+			],
+			[
+				"main",
+				"eoms-cms/apps/compliance/main.php"
+			],
+			[
+				"css",
+				"public_html/assets/css/default.css"
+			],
+			[
+				"contact",
+				"eoms-cms/templates/emails/contact.txt"
+			],
+			[
+				"subna",
+				"admin/blog/subnav.php"
+			],
+			[
+				"portf",
+				"eoms-cms/templates/default/portfolio.tpl"
+			],
+			[
+				"proje",
+				"eoms-cms/lib/Projects.class.php"
+			],
+			[
+				"prot",
+				"eoms-cms/lib/ContentTypes/ContentProject.class.php"
+			],
+			[
+				"",
+				"eoms-cms/lib/ContentTypes/ContentProject.class.php"
+			],
+			[
+				"project",
+				"eoms-cms/lib/ContentTypes/ContentProject.class.php"
+			],
+			[
+				"wr",
+				"eoms-cms/templates/apps/portfolio/wrapper.list.item.tpl"
+			],
+			[
+				"port",
+				"eoms-cms/templates/default/portfolio.tpl"
+			],
+			[
+				"form",
+				"eoms-cms/lib/Form.class.php"
+			],
+			[
+				"clien",
+				"eoms-cms/lib/Clients.class.php"
+			],
+			[
+				"clie",
+				"eoms-cms/lib/Client.class.php"
+			],
+			[
+				"home",
+				"eoms-cms/templates/default/home.tpl"
+			],
+			[
+				"defa",
+				"public_html/assets/css/default.css"
+			],
+			[
+				"fo",
+				"sass/forms.scss"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"yoga",
+				"yogawear.php"
+			],
+			[
+				"junio",
+				"junior.php"
+			],
+			[
+				"mens",
+				"menswear.php"
+			],
+			[
+				"less",
+				"css/style.less"
+			],
+			[
+				"sty",
+				"css/style.less"
+			],
+			[
+				"sc",
+				"style.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 431.0,
+	"status_bar_visible": true
+}

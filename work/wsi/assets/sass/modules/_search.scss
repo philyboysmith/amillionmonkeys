@@ -1,0 +1,20 @@
+input[type="text"].search-form__input {
+	padding: $form-padding;
+	border-color: $xlt-grey;
+	border-radius: 0;
+	color: $dk-grey;
+	text-transform:uppercase;
+	@include font-size(1.1);
+	background-image: url(../img/search.png);
+	background-position: right 50%;
+	background-repeat: no-repeat;
+	
+
+	&:focus { 
+		border: 1px solid $form-focus-color;
+		outline: none;
+	}
+}
+.search-form__submit {
+	display:none;
+}

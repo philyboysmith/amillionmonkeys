@@ -1,0 +1,174 @@
+/*------------------------------------*\
+    #MAIN SECTION LAYOUT
+\*------------------------------------*/
+
+.main {
+  background-color: $color--gray-darker;
+}
+
+
+@mixin block-arrow($color) {
+  position: relative;
+  &:after {
+    z-index: 1;
+    left: 50%;
+    bottom: -60px;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: transparent;
+    border-top-color: $color;
+    border-width: 30px;
+    margin-left: -30px;
+  }
+}
+
+.content img{
+  margin-bottom: 1em;
+  @include bp(small){
+    margin-bottom: 2em;
+  }
+}
+
+.section {
+  padding-top: 4em;
+  padding-bottom: 4em;
+  overflow:hidden;
+
+}
+
+.section.section--top-space {
+  padding-top: 6em;
+}
+
+.section--collapse {
+  padding: 0;
+}
+
+.yellow-block {
+  background-color: $color--brand-primary;
+  color: white;
+  a {
+    color: inherit
+  }
+}
+
+
+.yellow-block--arrow {
+  @include block-arrow($color--brand-primary);
+}
+
+.dark-yellow-block {
+  background-color: darken($color--brand-primary, 10%);
+  color: white;
+  padding-top: 4em;
+}
+
+.dark-yellow-block--arrow {
+  @include block-arrow(darken($color--brand-primary, 10%))
+}
+
+.darker-yellow-block {
+  background-color: darken($color--brand-primary, 20%);
+  color: white;
+  padding-top: 4em;
+}
+
+.darker-yellow-block--arrow {
+  @include block-arrow(darken($color--brand-primary, 20%))
+}
+
+/**
+ * Blue Blocks
+ */
+
+.blue-block {
+  background-color: $color--blue;
+  color: white;
+}
+
+.blue-block--arrow {
+  @include block-arrow($color--blue);
+}
+
+.dark-blue-block {
+  background-color: $color--dark-blue;
+  color: white;
+}
+.dark-blue-block--arrow {
+  @include block-arrow($color--dark-blue)
+}
+
+.darker-blue-block {
+  background-color: $color--darker-blue;
+  color: white;
+}
+
+.darker-blue-block--arrow {
+  @include block-arrow($color--darker-blue)
+}
+
+.grey-block {
+  background-color: $color--gray;
+  color: $color--gray-dark;
+  a {
+    color: $color--gray-light;
+  }
+}
+
+.grey-block--arrow {
+  @include block-arrow($color--gray);
+  position: relative;
+  &:after {
+    z-index: 1;
+    left: 50%;
+    bottom: -60px;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: transparent;
+    border-top-color: $color--gray;
+    border-width: 30px;
+    margin-left: -30px;
+  }
+}
+
+.dark-grey-block {
+  background-color: $color--gray-dark;
+  color: $color--gray;
+  a {
+    color: $color--gray-light;
+  }
+}
+
+
+
+.darker-grey-block {
+  background-color: $color--gray-darker;
+  color: $color--gray;
+  a {
+    color: $color--gray-light;
+  }
+}
+
+.post  h2 {
+  margin-bottom: .5em
+}
+// .vertical-align--home {
+//   top: auto;
+//   bottom: -60%;
+// }
+
+.contact .row {
+  max-width: 75em;
+}
+
+.contact-method li{
+  clear:left;
+}

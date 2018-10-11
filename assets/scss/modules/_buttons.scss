@@ -1,0 +1,39 @@
+/*------------------------------------*\
+    #BUTTONS
+\*------------------------------------*/
+
+%button-base {
+	@include accentFont;
+	@include font-size($h3-size / 1.5);
+	@include bp(small){
+		@include font-size($h3-size);
+
+	}
+	display: inline-block;
+	margin-bottom: $p-spacer;
+	padding: 0 .5em;
+	line-height: 2em;
+	text-align: center;
+	margin: 0 0.25em 0.5em;
+	border: $border!important;
+	text-transform: uppercase;
+	outline: 0;
+}
+
+button, .button, input[type="submit"] {
+	transition: $transition;
+	@extend %button-base;
+	background-color: $color--brand-primary;
+	color: #fff;
+	&:hover {
+		background-color: darken($color--brand-primary, 10%);
+		color: #fff;
+	}
+	&:visited {
+		color: #fff;
+	}
+}
+
+.buttons {
+	margin-top: 1.5em;
+}

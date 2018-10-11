@@ -1,0 +1,68 @@
+// Provide font size in REMs with a PX fallback
+
+@mixin font-size($sizeValue: 1.6) {
+  font-size: ($sizeValue * 10) + px;
+  font-size: $sizeValue + rem;
+}
+
+@mixin form-item {
+  padding: $form-padding;
+  width: 100%;
+  display: block;
+  border: 1px solid $border-color;
+  margin: 0 0 $base-line-height;
+  border-radius: 3px;
+  @include box-shadow(inset 0 0 5px rgba($pigeon,0.28));
+  color: $dk-grey;
+  &:focus { 
+    border: 1px solid $form-focus-color;
+    outline: none;
+  }
+}
+
+@mixin submit-button {
+  padding: 5px 20px;
+  background: $button-color;
+  border: 1px solid $button-border;
+  color: $white;
+  text-transform: uppercase;
+}
+
+@mixin respond-to($media) {
+
+  @if $media == iphone {
+    @media only screen and (max-width: $ipad - 1)  { @content; }
+  }
+  @if $media == ipad {
+    @media only screen and (min-width: $ipad)  { @content; }
+  }
+  @else if $media == desktop {
+    @media only screen and (min-width: $desktop) { @content; }
+  }
+}
+
+%inline-list {
+  padding: 0;
+  margin: 0;
+  li {
+    display: inline-block;
+  }
+}
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+    background: red;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+%clearfix {
+    *zoom: 1;
+}

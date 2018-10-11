@@ -1,0 +1,86 @@
+/*------------------------------------*\
+    #HERO MODULES
+\*------------------------------------*/
+
+
+.hero {
+  background-color: $color--gray-dark;
+  background-position: center top;
+
+  -webkit-background-size:cover;
+  background-size: cover;
+  position: relative;
+  min-height: 480px;
+  color: white;
+}
+
+.hero .columns {
+//   left: 50%;
+//   transform: translate(-50%, -25%);
+padding-top: 1em;
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+}
+
+.hero__overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(0,0,0);
+    opacity: 0.3;
+    content: '';
+    z-index: 0;
+  }
+
+.hero > * {
+  z-index: 1;
+}
+
+.hero--full-screen {
+  height: 500px;
+  height: 100vh;
+
+}
+
+.hero--half-screen {
+  height: 500px;
+  height: 50vh;
+}
+
+
+.hero--home {
+  background-image: url(../images/min/brighton-pier.jpg);
+
+}
+
+.hero--about {
+  background-image: url(../images/min/ferris-wheel.jpg);
+}
+
+.hero--contact {
+  background-image: url(../images/min/contact.jpg);
+}
+
+.hero--portfolio  {
+  background-image: url(../images/min/monument.jpg);
+}
+
+.hero--404 {
+  background-image: url(../images/min/monkey-404.jpg);
+}
+
+.hero--project {
+  padding-top: 160px;
+  @include bp(small){
+    margin-bottom: 3em;
+  }
+}
+
+.hero .icon-down-arrow {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  margin-left: -40px;
+  text-indent: -9999px;
+}

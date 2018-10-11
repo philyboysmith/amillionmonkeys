@@ -1,0 +1,1034 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"pr",
+				"primary-blue"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"brac",
+				"bracket-block"
+			],
+			[
+				"bracket",
+				"bracketBlock"
+			],
+			[
+				"br",
+				"bracketBlock"
+			],
+			[
+				"bracket-",
+				"bracket-block__container"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"window",
+				"windowWidth"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"prim",
+				"primary-color-dk"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"main",
+				"main-header-nav"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"categor",
+				"category-page"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"mobile",
+				"mobile"
+			],
+			[
+				"base",
+				"base-line-height"
+			],
+			[
+				"lt",
+				"lt-grey"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"base-",
+				"base-line-height"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"wes",
+				"westhouse-blue"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"we",
+				"westhouse-blue"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"no",
+				"noisy-blue"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"bd-",
+				"bd-grey"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"item",
+				"item-image"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"down",
+				"downlands-red"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"dow",
+				"downlands-grey-light"
+			],
+			[
+				"ca",
+				"category_name"
+			],
+			[
+				"cat",
+				"category_id"
+			],
+			[
+				"curr",
+				"l-curriculum-area"
+			],
+			[
+				"border-",
+				"border-right-width"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"heading",
+				"font-heading"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"region",
+				"region-frontpage"
+			],
+			[
+				"bas",
+				"base-line-height"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"grid",
+				"grid-baseline-height"
+			],
+			[
+				"gr",
+				"grid-baseline-height"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"pro",
+				"proxima-bold"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"FONT-",
+				"font-size"
+			],
+			[
+				"gre",
+				"greasby-yellow"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"grea",
+				"greasby-yellow"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"listy",
+				"list-style"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"portfolio",
+				"portfolio-screengrabs"
+			],
+			[
+				"le",
+				"letter-spacing"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/html/starter.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/html/assets/scss/base/_utilities.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/html/assets/scss/modules/_mainnav.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/html/assets/scss/modules/_breadcrumbs.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/html/markup/patterns/breadcrumbs.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/html/markup/patterns/mainnav.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/html/index.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/patterns/list-with-border.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/base/_type.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/index.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/patterns/mainnav.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/modules/_mainnav.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/patterns/staff-directory.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/modules/_staffdirectory.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/base/_grid.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/modules/_bordered-list.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/patterns/news.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/modules/_news.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/css/sg-style.css",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/base/_vars.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/base/_utilities.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/modules/_alerts.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/style.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/modules/_breadcrumbs.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/patterns/breadcrumbs.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/modules/_footer.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/patterns/footer.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/modules/_table.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/modules/_hero.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/patterns/footer.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/modules/_docs.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/modules/_buttons.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/patterns/hero.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/base/list-unordered.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/base/headings-1.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/base/_normalize.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/base/time.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/base/headings-3.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/base/form-fields-with-datalist.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/modules/_forms.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/markup/base/form-fields-default.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/style.css",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/scss/base/_layout.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/Gruntfile.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/tullett prebon/assets/js/min/site.min.js",
+		"/Users/philsmith/Desktop/WSI/style-guide/README.md",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/sass/modules/_sitemap.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/embeds.group/footer.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/js/vendor/responsive-carousel.autoplay.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/Gruntfile.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/sass/_layout.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/sass/modules/_post-header.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/pages.group/default.html",
+		"/Users/philsmith/Desktop/query_result.csv",
+		"/Users/philsmith/Desktop/query_result.xml",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/sass/modules/_widgets.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/sass/style.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/sass/modules/_bracket-blocks.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/css/diff.css",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/css/style.css",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/css/style.css.map",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/.gitignore",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/solutions.group/solutions--single.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/about.group/index.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/solutions.group/index.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/config/config.stage.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/sass/modules/_navigation.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/wsi.sublime-project",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/config/config.master.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/embeds.group/header.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/insight.group/resources.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/system/expressionengine/libraries/EE_Pagination.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/insight.group/index-single.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/insight.group/events-single.html",
+		"/Users/philsmith/Desktop/ee-wsi-0001_2014-05-01.sql",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/insight.group/events.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/embeds.group/widgets--about.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/insight.group/index.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/embeds.group/Twitter.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/embeds.group/widgets--sidebar.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/embeds.group/widgets--homepage.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/pages.group/index.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/templates/default_site/embeds.group/widget--sidebar.html",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/js/main.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/js/build/built.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/js/build/WSIntegration.min.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/js/vendor/jquery-1.10.1.min.js",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/system/expressionengine/config/config.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/system/expressionengine/config/database.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/sass/_variables.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/img/right-arrow.png",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/.htaccess",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/package.json",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/sass/modules/_accordian.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/sass/modules/_blog-navigation.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/sass/modules/_carousel.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/sass/_mixins.scss",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/css/_style.css",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/style.css",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/assets/npm-debug.log",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/config/config.env.php",
+		"/Users/philsmith/Dropbox/amillionmonkeys/WSI/html/config/config.local.php",
+		"/Users/philsmith/Downloads/ee-master-config-master 4/system/expressionengine/config/database.php",
+		"/Users/philsmith/Downloads/ExpressionEngine2.8.1 2/system/expressionengine/config/config.php",
+		"/Users/philsmith/Desktop/WSI/system/expressionengine/config/config.php",
+		"/Users/philsmith/Desktop/WSI/config.rb",
+		"/Users/philsmith/Desktop/WSI/assets/js/main.js",
+		"/Users/philsmith/Desktop/WSI/assets/js/vendor/responsive-carousel.autoplay.js",
+		"/Users/philsmith/Desktop/WSI/assets/sass/modules/_carousel.scss",
+		"/Users/philsmith/Desktop/WSI/templates/default_site/embeds.group/footer-html.html",
+		"/Users/philsmith/Desktop/WSI/assets/sass/modules/_post-header.scss",
+		"/Users/philsmith/Desktop/WSI/.gitignore",
+		"/Users/philsmith/Desktop/WSI/templates/default_site/insight.group/single-event.html",
+		"/Users/philsmith/Desktop/WSI/templates/default_site/xceptor_platform.group/index.html",
+		"/Users/philsmith/Desktop/WSI/templates/default_site/services.group/index.html",
+		"/Users/philsmith/Desktop/WSI/templates/default_site/About.group/locations.html",
+		"/Users/philsmith/Desktop/WSI/assets/sass/modules/_more-posts.scss",
+		"/Users/philsmith/Desktop/WSI/assets/sass/modules/_footer-links.scss",
+		"/Users/philsmith/Desktop/WSI/templates/default_site/embeds.group/header.html",
+		"/Users/philsmith/Desktop/WSI/templates/default_site/pages.group/index.html",
+		"/Users/philsmith/Desktop/WSI/templates/home.php",
+		"/Users/philsmith/Desktop/WSI/style-guide/CHANGELOG.md",
+		"/Users/philsmith/Desktop/WSI/admin.php",
+		"/Users/philsmith/Desktop/WSI/templates/default_site/embeds.group/head-html.html",
+		"/Users/philsmith/Desktop/WSI/assets/js/vendor/jquery-1.10.1.min.js",
+		"/Users/philsmith/Desktop/WSI/assets/js/min/main-ck.js",
+		"/Users/philsmith/Desktop/WSI/assets/sass/_layout.scss",
+		"/Users/philsmith/Desktop/WSI/assets/sass/modules/_bracket-blocks.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/philsmith/Desktop/WSI/templates",
+			"<project>",
+			"/Users/philsmith/Desktop/WSI/",
+			"/Users/philsmith/Desktop/WSI/system/expressionengine/configbase",
+			"/Users/philsmith/Dropbox/Phil and Leap/leap_website",
+			"/Users/philsmith/Desktop/WSI"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"18px",
+			"scss",
+			"_",
+			"0.5em",
+			";",
+			"#",
+			"$teal",
+			"-",
+			"#",
+			"secondary",
+			"select",
+			"size(14px)",
+			"\n",
+			"x\nx\nx\nx\nx</p><p></p><p>",
+			"</b>\n",
+			"</b>",
+			"x\nx\nx\nx\nx\nx</p><p></p><p>",
+			"\"|\"<p>20",
+			"\n\n",
+			"\n\n\n\n\n\n\n\n",
+			"\"|\"",
+			"\"|\"20",
+			"</p>\n<p",
+			"\",\"",
+			"name=\"trx_post_date\"",
+			"name=\"trx_profile\"",
+			"name=\"trx_title\"",
+			"</p>\n<p>",
+			"border-ra",
+			"border-rad",
+			"-moz",
+			"-webkit",
+			"-moz",
+			"last_segment",
+			"category",
+			"contact_form",
+			"Job fun",
+			"• ",
+			"leader_photo",
+			"link_page",
+			"text_cluster_excerpt",
+			"colour",
+			"link_page",
+			", '",
+			"\"></script>",
+			"<script src=\"../../src/",
+			"carouse",
+			"carousel",
+			"var pluginName = \"carousel\"",
+			"<p> ",
+			"\n    ",
+			"<p>\n    <strong></strong>\n</p>",
+			"align=\"center\"",
+			" upload_preferences",
+			"upload",
+			"black",
+			"index.",
+			"port",
+			"trans",
+			"@include transition(",
+			"templ",
+			".5s",
+			"if(!$this.parent().hasClass('is-open')){\n            allTerms.removeClass('is-open');\n            $this.parent().addClass('is-open');\n            if(!$target.hasClass('active')){\n               allPanels.removeClass('active').slideUp();\n               $target.addClass('active').slideDown();\n            }\n          } else {\n            allTerms.removeClass('is-open');\n            allPanels.removeClass('active').slideUp();\n          }",
+			"\"></script>",
+			"display: none",
+			"opacity",
+			"opac",
+			"bracket",
+			"• ",
+			"bracket-",
+			"homepage",
+			"flex",
+			"bracket-block__container",
+			"square_logo_2",
+			"/home/wsi/public_html/",
+			"filedir",
+			"wsi",
+			"/user",
+			"wsi.amillionmonkeys.co.uk",
+			"local",
+			"bart",
+			"carousel-nav",
+			"blog",
+			"insight",
+			"flex",
+			"l-bracket-block-list",
+			"home",
+			"side_bar_home",
+			"l-foo",
+			"th",
+			"{text_cluster_excerpt}",
+			"bracket-blo",
+			"list",
+			"large",
+			"solution",
+			"l-brack",
+			"<div class=\"bracket-block bracket-block--with-hover\">\n							<div>",
+			"bracket-block",
+			"file_heading",
+			"function folder",
+			"$this->EE->cp->set_variable('cp_page_title'",
+			"excurpt",
+			"last",
+			"form",
+			" category=",
+			"#",
+			"footer",
+			"relationship_field",
+			"=\"\"",
+			"channel=\"about_page\"",
+			"{sub_heading_about}",
+			"{main_content_about}",
+			"index.php/A",
+			"insightSinglePage",
+			"index.php",
+			"index",
+			"local",
+			"wsi.bart",
+			"img",
+			"mod_rewrite",
+			"localhost/WSI",
+			"$site_url",
+			"path.php",
+			"site_url",
+			"localhost/WSI",
+			"localhost",
+			"post",
+			"form-item--narrow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"excerpt",
+			"channel=\"page\"",
+			"{sub_heading_page}",
+			"{main_content_page}",
+			"Location",
+			"location",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"base",
+				"cultbox/library/scss/_base.scss"
+			],
+			[
+				"mixin",
+				"cultbox/library/scss/_mixins.scss"
+			],
+			[
+				"front",
+				"cultbox/library/scss/modules/_frontpage.scss"
+			],
+			[
+				"bones.php",
+				"cultbox/library/bones.php"
+			],
+			[
+				"cultbox",
+				"cultbox/library/cultbox.php"
+			],
+			[
+				"arc",
+				"cultbox/archive.php"
+			],
+			[
+				"single",
+				"cultbox/content-single.php"
+			],
+			[
+				"singlescss",
+				"cultbox/library/scss/modules/_single_pages.scss"
+			],
+			[
+				"nav",
+				"cultbox/library/scss/modules/_nav.scss"
+			],
+			[
+				"main",
+				"cultbox/library/scss/layout/_main.scss"
+			],
+			[
+				"mixi",
+				"cultbox/library/scss/_mixins.scss"
+			],
+			[
+				"header",
+				"cultbox/header.php"
+			],
+			[
+				"portfo",
+				"ido/page-portfolio.php"
+			],
+			[
+				"portf",
+				"ido/page-portfolio.php"
+			],
+			[
+				"_base",
+				"ido/library/scss/_base.scss"
+			],
+			[
+				"carouse",
+				"ido/library/scss/_carousel.scss"
+			],
+			[
+				"page-c",
+				"ido/page-contact-us.php"
+			],
+			[
+				"page",
+				"ido/page.php"
+			],
+			[
+				"module",
+				"westhouse/library/scss/_modules.scss"
+			],
+			[
+				"who",
+				"westhouse/page-who.php"
+			],
+			[
+				"inde",
+				"westhouse/index.php"
+			],
+			[
+				"modul",
+				"westhouse/library/scss/_modules.scss"
+			],
+			[
+				"script",
+				"westhouse/library/js/scripts.js"
+			],
+			[
+				"scrip",
+				"westhouse/library/js/scripts.js"
+			],
+			[
+				"scr",
+				"westhouse/cycloneslider/westhouse-slider/script.js"
+			],
+			[
+				"mix",
+				"westhouse/library/scss/_mixins.scss"
+			],
+			[
+				"bones",
+				"westhouse/library/bones.php"
+			],
+			[
+				"76",
+				"library/scss/_768up.scss"
+			],
+			[
+				"768",
+				"library/scss/_768up.scss"
+			],
+			[
+				"appl",
+				"eoms-cms/templates/default/careers-apply.tpl"
+			],
+			[
+				"mod",
+				"bluedoorbakery/sass/_modular-styles.scss"
+			],
+			[
+				"mo",
+				"sass/_modular-styles.scss"
+			],
+			[
+				"share",
+				"eoms-cms/templates/default/shareprice.tpl"
+			],
+			[
+				"announcements.tpl",
+				"eoms-cms/templates/default/announcements.tpl"
+			],
+			[
+				"top",
+				"eoms-cms/layouts/wide/top.php"
+			],
+			[
+				"defaul",
+				"public_html/assets/css/default.css"
+			],
+			[
+				"list.item",
+				"eoms-cms/templates/apps/portfolio/list.item.tpl"
+			],
+			[
+				"portfolio",
+				"eoms-cms/templates/default/portfolio.tpl"
+			],
+			[
+				"team",
+				"eoms-cms/templates/default/team.tpl"
+			],
+			[
+				"por",
+				"eoms-cms/templates/default/portfolio.tpl"
+			],
+			[
+				"bottom",
+				"eoms-cms/layouts/wide/bottom.php"
+			],
+			[
+				"pro",
+				"admin/pages/edit/project/project.post.php"
+			],
+			[
+				"proj",
+				"admin/pages/edit/project/project.post.php"
+			],
+			[
+				"compli",
+				"eoms-cms/templates/default/compliance-us.tpl"
+			],
+			[
+				"css",
+				"public_html/assets/css/default.css"
+			],
+			[
+				"contact",
+				"eoms-cms/templates/emails/contact.txt"
+			],
+			[
+				"subna",
+				"admin/blog/subnav.php"
+			],
+			[
+				"proje",
+				"eoms-cms/lib/Projects.class.php"
+			],
+			[
+				"prot",
+				"eoms-cms/lib/ContentTypes/ContentProject.class.php"
+			],
+			[
+				"",
+				"eoms-cms/lib/ContentTypes/ContentProject.class.php"
+			],
+			[
+				"project",
+				"eoms-cms/lib/ContentTypes/ContentProject.class.php"
+			],
+			[
+				"wr",
+				"eoms-cms/templates/apps/portfolio/wrapper.list.item.tpl"
+			],
+			[
+				"port",
+				"eoms-cms/templates/default/portfolio.tpl"
+			],
+			[
+				"form",
+				"eoms-cms/lib/Form.class.php"
+			],
+			[
+				"clien",
+				"eoms-cms/lib/Clients.class.php"
+			],
+			[
+				"clie",
+				"eoms-cms/lib/Client.class.php"
+			],
+			[
+				"home",
+				"eoms-cms/templates/default/home.tpl"
+			],
+			[
+				"defa",
+				"public_html/assets/css/default.css"
+			],
+			[
+				"fo",
+				"sass/forms.scss"
+			],
+			[
+				"head",
+				"inc/header.php"
+			],
+			[
+				"yoga",
+				"yogawear.php"
+			],
+			[
+				"junio",
+				"junior.php"
+			],
+			[
+				"mens",
+				"menswear.php"
+			],
+			[
+				"less",
+				"css/style.less"
+			],
+			[
+				"sty",
+				"css/style.less"
+			],
+			[
+				"sc",
+				"style.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true
+}

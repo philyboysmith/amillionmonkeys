@@ -1,0 +1,435 @@
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+ }
+
+.container {
+	background-color: $white;
+	width: 98%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.wrap {
+	@extend .clearfix;
+	width: 100%;
+	margin: 0 auto;
+	max-width: 1024px;
+	padding: 0 1em;
+
+}
+
+// Header Layout
+
+.l-header {
+	padding-top: $base-line-height;
+}
+.l-header__nav {
+	margin-bottom: 1em;
+	@include respond-to(ipad) {
+		border-bottom: 3px solid $red;
+	}
+}
+.l-header__logo {
+	margin-bottom: ($base-line-height / 2);
+	max-width: 160px;
+	width: 100%;
+}
+
+
+.l-header__menu {
+	@include respond-to(iphone) {
+		display:none;
+	}
+	.menu__item--right {
+		@include respond-to(ipad) {
+			float:right;
+			a {
+				padding-right: 0;
+			}
+		}
+	}
+	.menu__item--search {
+		@include respond-to(ipad) {
+			padding-top: 7px;
+			padding-right: 20px;
+		}
+	}
+}
+
+.l-header__search-form {
+	@include respond-to(iphone) {
+		background-color: $red;
+		padding: 10px;
+	}
+}
+.l-header__search-form .search-form__input {
+	margin-bottom: 0;
+}
+
+// Homepage
+
+.post__header--home {
+	margin-bottom: 1em;
+	.article-heading {
+		@include font-size(1.8);
+	}
+	.article-subheading {
+		@include font-size(1.4);
+		font-weight: $normal;
+		text-transform: none;
+	}
+}
+
+// Article Layout
+
+.l-posts {
+	margin-bottom: $base-line-height * 2;
+	@include respond-to(ipad) {
+		float:left;
+		width: 73%;
+		margin-right: 2%;
+	}
+	@include respond-to(desktop) {
+		width: 66.666%;
+		margin-right: 8.3333%;
+	}
+}
+
+
+.l-posts--wide {
+	@include respond-to(desktop) {
+		width: 73%;
+		margin-right: 2%;
+	}
+}
+
+.post {
+	@extend .clearfix;
+}
+
+.post--narrow {
+	max-width: 500px;
+}
+
+.post__image {
+	float:left;
+	width: 100%;
+	margin-top: 1em;
+	margin-bottom: $base-line-height;
+	@include respond-to(ipad) {
+		width: 33.333%;
+		padding-right: $base-line-height;
+	}
+	img {
+		width: 100%;
+		height: auto!important;
+	}
+}
+
+.post__header, .post__body {
+	@extend .clearfix;
+}
+
+.l-posts--insight {
+	margin-bottom: $base-line-height * 2;
+	@include respond-to(ipad) {
+		float:left;
+		width: 48%;
+		margin-right: 2%;
+	}
+	@include respond-to(desktop) {
+		width: 41.666%;
+		margin-right: 8.3333%;
+	}
+}
+
+.post > .bracket-block {
+	@include respond-to(ipad) {
+		float:right;
+		width: 30%;
+	}
+}
+
+.post > .bracket-block--large {
+	@include respond-to(ipad) {
+		width: 100%;
+	}
+}
+
+.post .bracket-block ~ .post__body {
+	float:left;
+	width: 65%;
+	margin-right: 5%;
+}
+
+.l-insight-nav {
+	@include respond-to(ipad) {
+		float:left;
+		width:23%;
+		margin-right: 2%;
+	}
+	@include respond-to(desktop) {
+		float:left;
+		width:16.666%;
+		margin-right: 8.333%;
+	}
+}
+
+.h-entry {
+	margin-bottom: $base-line-height;
+}
+
+.l-article-sidebar {
+	margin-bottom: $base-line-height * 2;
+	@include respond-to(ipad) {
+		float:right;
+		width: 25%;
+	}
+	.widget {
+		margin-bottom: $base-font-size / 2;
+	}
+	.widget:nth-child(1n){
+		background: $widget-one-grey;
+	}
+	.widget:nth-child(2n){
+		background: $widget-two-grey;
+	}
+	.widget:nth-child(3n){
+		background: $widget-three-grey;
+	}
+	.widget:last-child {
+		margin-bottom: 0;
+	}
+}
+
+.l-article-footer {
+	@extend .clearfix;
+	width: 100%;
+	float:left;
+	.widget {
+		padding-bottom: 30px;
+	}
+	@include respond-to(ipad) {
+		.widget {
+			float:left;
+			width: 31.95%;
+			margin-right: 2%;
+			&.first {
+			clear:left;
+			}
+			&.last {
+				margin-right:0;
+				float:right;
+			}
+		}
+	}
+}
+
+.l-article-footer {
+
+
+}
+// Clients Layout
+
+.l-bracket-block-list {
+	@extend .clearfix;
+	width: 100%;
+}
+
+.l-bracket-block-list {
+	@include opacity(0);
+}
+.l-bracket-block-list.loaded {
+	@include opacity(1);
+}
+
+
+.l-bracket-block-list  {
+	padding: 0;
+	margin: 0;
+}
+.l-bracket-block-list .bracket-block{
+	list-style-type: none;
+	padding: 0;
+	margin-bottom: 1em;
+	float:left;
+	width: 100%;
+
+	@include respond-to(ipad) {
+		margin-right: 2%;
+		margin-bottom: 1em;
+		width: 32%;
+		float:left;
+
+		&:nth-child(3n+3){
+			margin-right:0;
+			float:right;
+		}
+	}
+}
+
+.l-bracket-block-list--clients .bracket-block{
+	@include respond-to(ipad) {
+		min-height: 180px;
+	}
+}
+
+// Directors layout
+
+.l-directors {
+	margin-top: $base-line-height;
+}
+
+.l-directors ul {
+	margin: 0;
+	padding: 0;
+}
+.l-directors ul li {
+	margin: 0 0 $base-line-height 0;
+	padding: 0;
+	list-style: none;
+	@extend .clearfix;
+	.post__image {
+		margin-top: 0;
+	}
+	.post__image img {
+		border: 1px solid $lt-grey;
+		margin-top: 0;
+	}
+	@include respond-to(ipad) {
+		.post__body {
+			float:left;
+			width: 66.666%;
+		}
+	}
+	h2, h3 {
+		margin: 0;
+	}
+}
+
+// Contact form layout
+
+.post--contact {
+	margin-bottom: $base-line-height ;
+}
+
+.form-item--narrow {
+	@include respond-to(ipad) {
+		width: 47.5%;
+		float:left;
+		&.form-item--odd{
+			clear:left;
+			margin-right: 5%;
+		}
+	}
+}
+
+// Locations
+
+.l-locations {
+	@extend .clearfix;
+	clear:both;
+	margin-bottom: $base-line-height * 2;
+	figure {
+		margin-bottom: 0;
+		border-bottom:0;
+		@include respond-to(ipad) {
+			width: 33.333%;
+			padding-left: 2%;
+			padding-right: 2%;
+			float:left;
+			margin-bottom:0;
+		}
+		img {
+			width: 66.666%;
+			margin: 1em auto;
+			max-width: 300px;
+		}
+	}
+	@include respond-to(ipad) {
+	  border-bottom: 2px solid $xlt-grey;
+	}
+}
+
+// Solutions
+
+.l-bracket-block-list--solutions hr {
+	@include respond-to(iphone) {
+		display: none;
+	}
+}
+.l-bracket-block-list--solutions li {
+	list-style: none;
+}
+
+// Brochures
+
+.l-brochures {
+	@extend .clearfix;
+	width: 100%;
+	ul {
+		list-style:none;
+		padding: 0;
+
+	}
+	ul li {
+		margin: 0;
+		padding: 0;
+		@include respond-to(ipad) {
+			width: 30%;
+			margin-right: 5%;
+			float:left;
+			margin-bottom:0;
+			&:nth-child(3n+3){
+				margin-right: 0;
+			}
+		}
+	}
+
+}
+
+.file {
+	border: 0;
+	padding:0;
+	margin:0;
+	img {
+		width: 100%;
+		margin: 1em auto 0.5em;
+		max-width: 300px;
+		border: 1px solid $lt-grey;
+	}
+	figcaption {
+		text-align: left;
+		a {
+			color: $dk-grey;
+		}
+	}
+}
+
+// Contact Form
+
+.l-contact_form {
+	ul {
+		margin: 0;
+		padding: 0;
+	}
+	ul li {
+		list-style: 0;
+		margin: 0;
+		padding: 0;
+	}
+}
+
+// Sitemap
+
+.l-post__sitemap {
+	margin-left: 0;
+	li>ul {
+		margin-top: 0;
+	}
+}
+
+// Footer Layout
+
+.l-footer__sitemap .sitemap__spacer{
+	margin-bottom: $base-line-height;
+}

@@ -1,0 +1,49 @@
+.accordion {
+   dt, dd {
+      padding: 10px;
+      background-color: $xxlt-grey;
+      width: 100%;
+   }
+   dt {
+      @include font-size(1.4);
+      border-top: 2px solid $white;
+      text-transform: uppercase;
+        @include transition(background-color 0.2s ease-in);
+
+      a {
+        color: $dk-grey;
+        &:hover {color: $dk-grey;}
+      }
+      .more-posts__icon {
+        @include transition(all 0.2s ease-in);
+        @include transform-origin(50% 50%);
+        width: 1.25em;
+        font-size:1.5em;
+        line-height: 1;
+        padding: 0;
+        span, span:before{
+          width: 1em;
+          height: 1em;
+          display: inline-block;
+        }
+      }
+      .more-posts__words {
+        text-align:left;
+      }
+      &.is-open, &:hover{
+          background-color:$xlt-grey;
+      }
+      &.is-open .more-posts__icon  {
+        @include rotate(90deg);
+      }
+   }
+   dd {
+     font-size: 12px;
+     margin-left: 0;
+     padding-left: 3em;
+     padding-right: 3em;
+     &:last-of-type {
+       position: relative;
+     }
+  }
+}

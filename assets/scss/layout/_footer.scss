@@ -1,0 +1,18 @@
+/*------------------------------------*\
+    #FOOTER LAYOUT
+\*------------------------------------*/
+
+.copyright {
+  @include font-size(14px);
+  text-align: center;
+  @include bp(small){
+    text-align: left;
+  }
+}
+
+.main-footer > .row {
+  @include bp(small){
+    display: flex;
+    align-items: center;
+  }
+}

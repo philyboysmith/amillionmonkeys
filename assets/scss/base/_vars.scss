@@ -1,0 +1,97 @@
+/*------------------------------------*\
+    #VARIABLES
+\*------------------------------------*/
+
+/**
+ * CONTENT
+ *
+ * COLORS
+ * GRID VARIABLES
+ * BREAKPOINTS
+ * TRANSITION
+ * TYPOGRAPHY
+ * BORDERS & SHADOW
+ *
+ */
+
+/*------------------------------------*\
+    #COLOR
+\*------------------------------------*/
+
+$color--gray-darker:      #1f1f1f !default;
+$color--gray-dark:        #838385 !default;   // #333
+$color--gray:             #AFAFAF !default; // #555
+$color--gray-light:       #DDDDDD;   // #999
+
+
+$color--darker-blue: #004c72;
+$color--dark-blue: #3e657a;
+$color--blue: #7d95a1;
+
+// Global colour of text on the body
+$color--text:             $color--gray-dark !default;
+
+$color--brand-primary:    #FFC600 !default;
+/*------------------------------------*\
+    #GRID
+\*------------------------------------*/
+
+$row-width:               62.5rem !default;
+$column-gutter:           4em !default;
+$total-columns:           12 !default;
+
+$default-float:           left !default;
+$opposite-direction:      right !default;
+
+/*------------------------------------*\
+    #BREAKPOINTS
+\*------------------------------------*/
+
+$small-screen:            768px !default;
+$medium-screen:           1024px !default;
+$large-screen:            1280px !default;
+
+$small:                   "only screen and (min-width: #{$small-screen})";
+$medium:                  "only screen and (min-width: #{$medium-screen})";
+$large:                   "only screen and (min-width: #{$large-screen}";
+
+/*------------------------------------*\
+    #TRANSITIONS
+\*------------------------------------*/
+
+$transition:              all 0.2s ease-in-out;
+
+/*------------------------------------*\
+    #TYPOGRAPHY
+\*------------------------------------*/
+
+$base-font-stack:         'Merriweather', sans-serif;
+
+$accent-font-stack:       'Tungsten-Semibold', 'Times New Roman', serif;
+
+$p-size:                  25px;
+$p-line-height: 			    1.5;
+$p-spacer: 				        0.5em;
+
+$list-item-spacer:        0.5em;
+$list-spacer:             $p-spacer;
+
+$h1-size:		              58px;
+$h1-line-height:	        1.5em;
+$h1-spacer:		            0;
+$h2-size:		              42px;
+$h2-line-height:	        1;
+$h2-spacer:		            0.25em;
+$h3-size:		              36px;
+$h3-line-height:	        1.5em;
+$h3-spacer:		            0;
+$h4-size:		              17px;
+$h4-line-height:          1.5em;
+$h4-spacer:		            0;
+
+/*------------------------------------*\
+    #BORDER RADIUS & SHADOW
+\*------------------------------------*/
+
+$border:                  1px solid white;
+$border-radius:           0;

@@ -1,0 +1,98 @@
+/*------------------------------------*\
+    #ABOUT LINKS
+\*------------------------------------*/
+
+
+.about-links {
+  padding: 4em 0;
+  position: relative;
+  @include clearfix;
+  overflow:hidden;
+  min-height: 50vw;
+  >.row {
+    position: relative;
+  }
+}
+
+
+.about-links__item {
+  width: 50%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  cursor: pointer;
+  height: 100%;
+}
+.about-links__item--company {
+  right: 0;
+  left: auto;
+}
+.about-links .post {
+  position: relative;
+  transform: translate3d(0, 300px, 0);
+  height: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .3s ease-in, transform .3s ease-in-out;
+  z-index: 50;
+  color: white;
+}
+
+.js-open.post {
+  height: auto;
+  display: block;
+  transform: translate3d(0, 0, 0);
+  opacity: 1;
+  pointer-events: auto;
+
+}
+
+.about-links__link {
+  @include vertical-align;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: white;
+  z-index: 2;
+  transition: opacity 0.2s ease-in-out;
+}
+
+.about-links__item--agency {
+  background-color: $color__dark-blue;
+}
+
+.about-links__item--company {
+  background-color: $color__blue;
+}
+
+.about-links__color-block {
+  transition: transform .35s, width .35s, left .35s, right .35s;
+}
+
+.about-links__item--agency .about-links__color-block {
+  background-color: $color__dark-blue;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width:100%;
+  bottom: 0;
+}
+
+.about-links__item--company .about-links__color-block {
+  background-color: $color__blue;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+}
+
+.about-links__item.js-open .about-links__color-block{
+  width: 200%;
+
+}
+
+.js-open .about-links__link  {
+    z-index: 4;
+    opacity: 0;
+  }

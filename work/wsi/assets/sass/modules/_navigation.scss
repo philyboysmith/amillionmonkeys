@@ -1,0 +1,92 @@
+.menu, .menu ul {
+	margin: 0;
+	padding: 0;
+	font-weight: $medium;
+}
+.menu {
+	@extend .clearfix;
+}
+.menu, .menu-toggle {
+	background: $red;
+	@include respond-to(ipad) { 
+		background: transparent;
+	}
+}
+
+.menu > li {
+	position: relative;
+	@include respond-to(ipad) { 
+		float:left;
+	}
+}
+
+.menu > li a, .menu-toggle {
+	padding: 10px;
+	display:block;
+	color:$white;
+	border-bottom: 1px solid $white;
+	text-transform:uppercase;
+	@include font-size(1.4);
+	@include respond-to(ipad) { 
+		color: $red;
+		padding-left:0;
+		padding-right: 20px;
+		border-bottom:0;
+	}
+	&:hover {
+		color: $black;
+	}
+}
+.menu > li.last{
+	@include respond-to(ipad) {
+		float:right;
+		a {
+			color: $black;
+			padding-right: 0;
+		}
+	}
+}
+
+.menu-toggle {
+	background-image: url(../img/menu.png);
+	background-repeat: no-repeat;
+	background-position: 10px 50%;
+	padding-left: 35px;
+	cursor: pointer;
+	@include respond-to(ipad) { 
+		display: none;
+	}
+}
+
+.menu > li.is-active>a, .menu > li.parent-is-active>a {
+	color:$black;
+}
+
+.menu > li > ul {
+	@include respond-to(ipad) { 
+	position: absolute;
+	left: -99999px;
+	width: 200px;
+	z-index: 99;
+	background: $xxlt-grey;
+	@include single-box-shadow;
+	}
+}
+.menu > li:hover ul {
+	left:0;
+}
+
+.menu > li > ul> li a{
+	padding-left: 20px;
+	@include respond-to(ipad) { 
+		width: 100%;
+		color: $black;
+		text-transform:none;
+		background-image: url(../img/right-arrow.png);
+		background-repeat: no-repeat;
+		background-position: right 50%;
+		&:hover {
+			background-color: $xlt-grey;
+		}
+	}
+}

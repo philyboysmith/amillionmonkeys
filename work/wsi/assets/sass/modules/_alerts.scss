@@ -1,0 +1,31 @@
+.alert {
+  border: 1px solid #fbeed5;
+  border-radius: $border-radius;
+  margin-bottom: 20px;
+  padding: 8px 35px 8px 14px;
+  // text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+.alert-warning {
+  background-color: #fcf8e3;
+  border-color:  #c09853;
+  color: #c09853;
+}
+
+.alert-error {
+  background-color: lighten($red, 50%);
+  border-color: $red;
+  color: $red;
+}
+
+.alert-success {
+  background-color: lighten($green, 50%);
+  border-color: $green;
+  color: $green;
+}
+
+.alert-info {
+  background-color: lighten($pigeon, 30%);
+  border-color: $pigeon;
+  color: $pigeon;
+}

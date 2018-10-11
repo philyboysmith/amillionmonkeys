@@ -1,0 +1,46 @@
+.footer-links {
+	@extend .clearfix;
+	background: $black;
+	padding: 20px 20px;
+}
+
+.footer-links ul {
+	@extend %inline-list;
+}
+
+.footer-links__social-links {
+	@include respond-to(ipad) {
+		float:left;
+	}
+	a {
+		color: $white;
+		padding-right: 0.5em;
+		font-size: 1.5em;
+		line-height: $base-line-height;
+	}
+}
+.footer-links__copyright {
+	color: $lt-grey;
+	@include respond-to(ipad) {
+		float:right;
+	}
+	li {
+		padding: 0 1em;
+		border-right: $lt-grey 1px solid;
+	}
+	li:first-child {
+		padding-left: 0;
+	}
+	li:last-child {
+		@include respond-to(ipad) {
+			padding-right: 0;
+			border-right: 0;
+		}
+	}
+	a {
+		color: $lt-grey;
+	}
+	a:hover {
+		color: $lt-grey;
+	}
+}

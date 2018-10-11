@@ -1,0 +1,59 @@
+/*------------------------------------*\
+    #NAVIGATION
+\*------------------------------------*/
+
+.main-nav {
+  margin-bottom: 0;
+}
+
+.main-nav ul{
+  text-align: center;
+  line-height: 1.2em;
+  @include bp(small){
+    text-align: left;
+  }
+}
+.main-nav ul li a {
+  color: white;
+  margin: 0 0.25em;
+  transition: none;
+  padding-bottom: 4px;
+  transition: border-bottom-color 0.2s;
+  &:hover {
+    border-bottom: 5px solid $color--brand-primary;
+  }
+
+  &.active {
+    border-bottom: 5px solid $color--brand-primary;
+  }
+
+}
+
+.main-nav ul li {
+  display: inline-block;
+}
+
+.social-links ul {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  @include bp(small){
+    text-align: right;
+  }
+}
+
+.social-links li {
+  margin: 0 4px;
+  opacity: 0.4;
+  transition: all 0.2s;
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+.social-links li, .social-links i {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background-size: cover;
+}

@@ -1,0 +1,59 @@
+/*------------------------------------*\
+    #ICONS
+\*------------------------------------*/
+
+.icon-down-arrow {
+  width: 80px;
+  height: 80px;
+  // border-radius: 50%;
+  background-color: transparent;
+  // border: 0!important;
+  text-indent: -1000px;
+  z-index: 2;
+  transition: $transition;
+  background-position: center center;
+  background-size: 60px 60px;
+  padding: -1em;
+  border: none!important;
+  border-bottom: 4px solid transparent!important;
+   &:hover {
+    background-color: transparent;
+    border-bottom: 5px solid $color--brand-primary!important;
+  }
+}
+
+.icon-shop, .icon-business {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  background-size: cover;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+.icon-close {
+  width: 42px;
+  height: 42px;
+  display: block;
+  background-size: cover;
+  position: absolute;
+  right: -4em;
+  top: -2em;
+  z-index: 5;
+  text-indent: -9999px;
+  cursor: pointer;
+}
+
+.contact-method li {
+  line-height: 1.48em;
+}
+.contact-method i {
+  display: inline-block;
+  float: left;
+  width: 37px;
+  height: 37px;
+  margin-right: 0.5em;
+  margin-bottom: 0em;
+  margin-top: 0em;
+  background-size: cover;
+}

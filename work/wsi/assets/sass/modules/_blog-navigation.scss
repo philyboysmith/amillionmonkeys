@@ -1,0 +1,53 @@
+.insight-navigation {
+	@extend .clearfix;
+	margin-bottom: $base-line-height;
+}
+.insight-navigation__heading {
+	background: $black;
+	color:white;
+	@include font-size(1.4);
+	padding: 10px 10px 10px 20px;
+	margin: 0;
+}
+.insight-navigation ul {
+	padding-left: 4px;
+	margin: 0;
+	float:left;
+	width: 100%;
+	@include background-image(linear-gradient($black 0%, $black 50%, $red 50%, $red 100%));
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.insight-navigation__item {
+	@include font-size(1.1);
+	padding: 1em 0 1em 16px;
+	background-color: $white;
+	a {
+		word-break: break-all;
+	}
+}
+
+.insight-navigation__date {
+	@include font-size(1.1);
+	margin:0;
+}
+
+.insight-navigation__title {
+	@include font-size(1.1);
+	color: $black;
+	text-transform: none;
+	font-weight: $normal;
+	margin:0;
+}
+.insight-navigtion__read-more {
+	color: $red;
+}
+
+.insight-navigation--twitter a {
+	word-break: break-all;
+	word-break: break-word;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
+}

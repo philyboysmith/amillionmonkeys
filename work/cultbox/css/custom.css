@@ -1,0 +1,58 @@
+ .top-bar input{
+          height: auto;
+          padding-top: 0.35rem;
+          padding-bottom: 0.35rem;
+          font-size: 0.77778rem;
+        }
+        .top-bar .button {
+          padding: 0.45rem 0.5rem 0.35rem 0.5rem;
+          margin-bottom: 0;
+          font-size: 0.75rem;
+          }
+          #nav-container {
+            border-bottom: solid #dddddd 1px;
+            margin-top: 1.0625rem;
+
+          }
+          .advert-container {
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+          }
+          img {
+            border: 0;
+            max-width: 100%;
+            height: auto;
+          }
+          header .sub-nav {
+            margin-top: 0.75em;
+          }
+          .article {
+            margin-bottom: 1em!important;
+          }
+          .meta {
+            font-size: small;
+            color: #999999;
+            margin: 0.25rem 0;
+            text-transform: uppercase;
+          }
+          .tabs, .tabs dd {
+            border-bottom: solid #dddddd 1px;
+          }
+          .tabs dd.active {
+            border-bottom: 1px solid #FFFFFF;
+          }
+
+          .category #body {
+            border-left: solid #dddddd 1px;
+          }
+          @media only screen and (min-width: 40.063em) {
+            #filter .inline-list li {
+              width: 100%;
+              border-bottom: solid #dddddd 1px;
+              padding-bottom: 3px;
+              margin-bottom: 3px;
+              text-align: right;
+              margin-left:0;
+              margin-right: 0;
+            }
+          }

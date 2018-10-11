@@ -1,0 +1,39 @@
+/*------------------------------------*\
+    #HEADER LAYOUT
+\*------------------------------------*/
+
+.main-header {
+  padding: 1em;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 2;
+  @include bp(small){
+    padding: 2em;
+    display:flex;
+    align-items: center;
+  }
+}
+
+.main-header .logo  {
+  display: block;
+  margin: 0 auto 1em;
+  width: 65px;
+  height: 65px;
+  @include bp(small){
+    margin: 0 1em 0 0;
+  }
+}
+
+.main-header .main-nav{
+  clear: both;
+  width: 100%;
+  padding: 0;
+  @include bp(small){
+    float:left;
+    width: auto;
+  }
+}
+
+
+
